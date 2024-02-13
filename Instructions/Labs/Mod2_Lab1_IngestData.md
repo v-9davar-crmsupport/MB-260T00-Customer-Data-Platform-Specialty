@@ -16,7 +16,7 @@ By attending this Hands-on Lab, you will learn step-by-step how to set up, confi
 We will introduce the business pain points, goals and high-priority use cases that Contoso has identified around their customer data initiative, and then realise a working prototype solution today. 
 
 
-## Lab Scenario: Contoso Coffeee
+## Lab Scenario: Contoso Coffee
  
 Contoso Coffee produce high-quality coffee and coffee machines, which they retail through channels including new Contoso Retail Stores in premium locations, premium food resellers and the Contoso Coffee Web Site. 
 
